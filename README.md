@@ -1,6 +1,8 @@
 # ⛩️ Welcome to my profile !
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b5289388744355.5ddf70773c0f2.gif"/>
 
+![](https://komarev.com/ghpvc/?username=PopsIDX&style=for-the-badge&color=red)
+
 ## 👺 Who Am I ?
 Hello there! 👋 My name is **Etienne**, also known as **Pops**, and I'm a 26-year-old **Web Developer** 👨‍💻 based in **Lyon, France** 🦁. Currently, I work as a **Video Developer 📹** at **Bedrock Streaming** through my consulting work at **Zenika** 🔴.
 
