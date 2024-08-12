@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=PopsIDX&style=for-the-badge&color=red)
 
 ## 👺 Who Am I ?
-Hello there! 👋 My name is **Etienne**, also known as **Pops**, and I'm a 26-year-old **Web Developer** 👨‍💻 based in **Lyon, France** 🦁. Currently, I work as a **Video Developer 📹** at **Bedrock Streaming** through my consulting work at **Zenika** 🔴.
+Hello there! 👋 My name is **Etienne**, also known as **Pops**, and I'm a 27-year-old **Web Developer** 👨‍💻 based in **Lyon, France** 🦁. Currently, I work as a **Video Developer 📹** at **Bedrock Streaming** through my consulting work at **Zenika** 🔴.
 
 I'm deeply passionate about exploring new technologies and pushing the boundaries of what's possible on the web 🌐. I'm particularly interested in the fascinating worlds of virtual and augmented reality 🤖👓, and I'm currently expanding my skills by learning WebGL and ThreeJS to create immersive 3D 🎲 experiences for my projects.
 
@@ -14,7 +14,6 @@ When I'm not coding, I love spending time with animals 🐶🐱 and hope to have
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_eidoux)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etienne.idoux@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etienne-idoux/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lacruz.org/team/idoux-etienne)
 
 ---
 
